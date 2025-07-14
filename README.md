@@ -1,71 +1,42 @@
-<h2 align="left">Hi 👋! I'm Mohamed Ramadan, a passionate Backend Developer from Egypt 🇪🇬</h2>
+# Hi there, I'm Mohamed Ramadan 👋
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ramadan-25a560217/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://mrportfolio-green.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhamedramadan2002@gmail.com)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedRamadan200224&layout=compact&langs_count=6&theme=dark&title_color=1d4752&text_color=ADB5BD&bg_color=00000000&hide_border=false" height="150" alt="languages graph" />
-</div>
+## 🚀 About Me
 
-###
+I'm a passionate Full Stack Developer with expertise in building robust and scalable web applications. With a strong foundation in computer science and hands-on experience in modern web technologies, I specialize in creating efficient, user-friendly solutions that bridge the gap between business needs and technical execution.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+My approach combines clean code architecture with performance optimization, ensuring applications are both maintainable and high-performing. I thrive in collaborative environments where I can contribute my problem-solving skills and continuously learn from talented peers.
 
-###
+As a dedicated professional, I stay updated with the latest industry trends and best practices, always seeking to elevate my skills and deliver exceptional results. My goal is to create impactful digital experiences that solve real-world problems while maintaining elegant code standards.
 
-<p align="left">
-I'm a Computer Science graduate with a strong foundation in backend development, cloud services, and AI. I thrive on tackling complex problems, designing robust systems, and delivering high-quality software that drives business success. 
-<br /><br />
-I specialize in building scalable APIs, integrating secure payment systems, and leveraging modern stacks like Node.js, Express, React, and Docker. 
-<br /><br />
-A lifelong learner driven by curiosity and innovation, I love collaborating in agile teams, applying design patterns, and continuously enhancing my skills in distributed systems and cloud-native architectures.
-</p>
+## 🛠️ Tech Stack
 
-###
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwind" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/tanstack/query/main/media/logo.svg" height="30" alt="tanstack query" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker" />
-</div>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-###
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohamed-ramadan-25a560217/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://mrportfolio-green.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1f8b4c?style=for-the-badge&logo=githubpages&logoColor=white" height="35" alt="Portfolio" />
-  </a>
-  <a href="mailto:muhamedramadan2002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
-  </a>
-</div>
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-###
+## 📈 GitHub Stats
 
-<br clear="both" />
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-<img src="https://raw.githubusercontent.com/MohamedRamadan200224/MohamedRamadan200224/output/snake.svg" alt="Snake animation" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
