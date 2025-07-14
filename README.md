@@ -37,9 +37,6 @@ As a dedicated professional, I stay updated with the latest industry trends and 
 
 ## 📈 GitHub Stats
 
-### 1. Classic Stats Card
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedRamadan200224&show_icons=true&theme=radical&include_all_commits=true&hide_border=true)
-
 ### 2. Compact Language Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRamadan200224&layout=compact&theme=radical&hide_border=true&exclude_repo=MohamedRamadan200224.github.io)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRamadan200224&layout=compact&theme=radical&hide_border=true&exclude_repo=searching-files-by-python.github.io)
 
