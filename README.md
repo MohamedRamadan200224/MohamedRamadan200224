@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer with expertise in building robust and scalable web applications. With a strong foundation in computer science and hands-on experience in modern web technologies, I specialize in creating efficient, user-friendly solutions that bridge the gap between business needs and technical execution.
+I'm a passionate Full Stack Developer with expertise in building robust and scalable MERN Stack web applications. With a strong foundation in computer science and hands-on experience in modern web technologies, I specialize in creating efficient, user-friendly solutions that bridge the gap between business needs and technical execution.
 
 My approach combines clean code architecture with performance optimization, ensuring applications are both maintainable and high-performing. I thrive in collaborative environments where I can contribute my problem-solving skills and continuously learn from talented peers.
 
