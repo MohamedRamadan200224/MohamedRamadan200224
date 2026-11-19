@@ -1,6 +1,9 @@
-# Hi there, I'm Mohamed Ramadan 👋
+# Hi, I'm Mohamed Ramadan 👋
 
-### 🚀 Backend Developer | Building Scalable Systems & Real-World Products
+### Backend Developer — Node.js, Express.js & RESTful APIs | Full-Stack Developer (MERN)
+
+📍 Cairo, Egypt · 🌍 Open to remote roles worldwide
+💼 Backend Developer at GenSystem (Nov 2025 – May 2026) · Freelance Full-Stack Developer since Feb 2025
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ramadan-25a560217/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://mrportfolio-green.vercel.app/)
@@ -8,69 +11,90 @@
 
 ---
 
-## 🧠 About Me
+## About me
 
-I’m a **Backend Developer** focused on building **production-ready systems** that handle real-world complexity — not just simple CRUD apps.
+I'm a backend-focused developer who builds production-ready systems that handle real business complexity — orders, payments, subscriptions, disputes, and multi-role access — not just simple CRUD apps.
 
-I specialize in:
-- Designing scalable backend architectures
-- Building secure and high-performance APIs
-- Implementing complex business logic (E-commerce, Payments, Subscriptions)
-- Integrating external services (AI APIs, Payment Gateways, Storage)
+I care about clean architecture, performance and caching, and code that stays maintainable as a system grows.
 
-💡 I care about:
-- Clean architecture
-- Performance & caching strategies
-- Maintainability & scalability
+**Currently open to:** remote Backend (Node.js / Express / Nest.js) and Full-Stack (MERN) roles, and freelance projects.
 
 ---
 
-## ⚡ What I Actually Do
+## Featured public work
 
-- Build APIs used in real production systems
-- Handle complex flows (orders, payments, subscriptions, disputes)
-- Optimize performance using Redis & efficient DB queries
-- Design systems that scale and remain maintainable
-- Integrate AI systems into real applications
+### 🧩 Electropi — Project & Task Management API
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/MohamedRamadan200224/electropi-project-task-management)
+
+TypeScript, Express 5, MongoDB / Mongoose, JWT auth, Zod validation, Jest.
+
+- Layered architecture: routes → controllers → services → models
+- Role-based access (admin / member), project membership, nested tasks
+- Pagination, sorting and filtering, with indexes on task queries
+- Secure password reset: hashed, single-use, 10-minute tokens, no user enumeration
+- Docker + docker-compose, seed script, Postman collection
+
+### 🛒 Eco-Friendly E-commerce — GreenGray
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/MohamedRamadan200224/eco-friendly-ecommerce)
+[![Live demo](https://img.shields.io/badge/Live_demo-000000?style=flat-square&logo=vercel)](https://eco-friendly-ecommerce.vercel.app)
+
+MERN, Stripe Checkout, JWT auth, MongoDB.
+
+- Sellers, products, cart, orders and reviews, with admin / company / expert roles
+- Environmental scoring, expert voting and reporting, reward points and discounts
+- Seller certification flow and Stripe Checkout integration
+
+### 💼 Employment Website
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/MohamedRamadan200224/Employment-Website)
+
+React, Tailwind CSS, Node.js, MySQL.
+
+- Job listings, applications and user management across frontend and backend
+- File uploads and role-based access
 
 ---
 
-## 🛠️ Tech Stack
+## Experience
 
-### ⚙️ Backend Core
+**Freelance Full-Stack Developer** · Feb 2025 – Present · Remote
+Full-time freelance work through Mostaql and a private client network.
+
+**Backend Developer — GenSystem** · Nov 2025 – May 2026
+Backend for an AI-driven corporate learning platform, including AI API integration, Supabase (DB + RPC + Edge Functions), adaptive assessments and learning paths, and subscription-based access.
+
+**AI Intern — Egabi Solutions** · Aug – Sep 2023
+
+**BSc Computer Science — Helwan University** · 2020 – 2024 · GPA 3.39
+
+---
+
+## Tech stack
+
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
 
----
-
-### 🗄️ Databases & Storage
+### Databases & storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
----
-
-### 🚀 DevOps & Performance
+### DevOps & performance
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Hostinger](https://img.shields.io/badge/hostinger-%23673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
----
-
-### 💳 Payments & Integrations
+### Payments & integrations
 ![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)
 ![Paymob](https://img.shields.io/badge/Paymob-003A8F?style=for-the-badge)
 ![PayTabs](https://img.shields.io/badge/PayTabs-00AEEF?style=for-the-badge)
 
----
-
-### 🖥️ Frontend (Supporting Skills)
+### Frontend (supporting)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
@@ -78,71 +102,22 @@ I specialize in:
 
 ---
 
-### 🧰 Tools & Libraries
-![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 💼 Featured Work
-
-### 🛒 Mitjaar — Full E-commerce System (In Testing)
-🔗 https://mitjaar.com  
-
-A production-level e-commerce platform with complex backend architecture.
-
-**Highlights:**
-- Advanced coupon system (multiple logic types)
-- Product bundles & dynamic offers
-- Subscription plans for sellers
-- Orders, returns & disputes handling
-- Customizable storefront & product pages
-- Admin dashboard with full control
-
----
-
-### 🧠 Rafiq AI Platform (GenSystem)
-Backend Developer
-
-- Built backend powering AI-driven learning flows
-- Integrated AI APIs for user analysis & recommendations
-- Used Supabase (DB + RPC + Edge Functions)
-- Designed adaptive assessments & learning paths
-- Implemented subscription-based access
-
----
-
-### 🌍 Tourism Platform (MERN)
-- Custom tour builder system
-- Reservation & payment workflows (Paymob)
-- "Pay Later" feature with business logic handling
-
----
-
-## 📈 GitHub Stats
+## GitHub stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRamadan200224&layout=compact&theme=radical&hide_border=true)
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedRamadan200224&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
-## 🎯 Why Work With Me?
+## Why work with me?
 
-- I build **real systems**, not just demo projects  
-- Strong experience with **business logic-heavy applications**  
-- Focus on **performance, scalability, and clean architecture**  
-- Comfortable working in **production environments**  
-- Fast learner & problem solver  
+- I build real, business-logic-heavy systems, not just demos
+- Strong on API architecture, payments, subscriptions and access control
+- Focus on performance, scalability and clean architecture
+- Comfortable in production environments, and a fast learner
 
 ---
 
-## 📬 Let's Connect
+## Let's connect
 
-I'm always open to:
-- Backend roles
-- Freelance opportunities
-- Building scalable systems
-
-📩 Feel free to reach out!
+Open to remote backend / full-stack roles and freelance work. Feel free to reach out on LinkedIn or by email.
