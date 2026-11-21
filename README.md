@@ -21,6 +21,21 @@ I care about clean architecture, performance and caching, and code that stays ma
 
 ---
 
+## Private / client work
+
+These projects are private, so there is no public repo or live demo — but they are real production work, not tutorials.
+
+### 🛍️ Mitjaar — Multi-vendor e-commerce
+Multi-vendor e-commerce platform (MERN: MongoDB, Express, React, Node.js).
+
+### 🤖 Rafiq AI — Corporate learning platform
+AI-powered corporate learning platform.
+
+### ✈️ Booking Tours Egypt — Tours booking platform
+Tour booking platform for Egypt (MERN: MongoDB, Express, React, Node.js).
+
+---
+
 ## Featured public work
 
 ### 🧩 Electropi — Project & Task Management API
@@ -51,19 +66,6 @@ React, Tailwind CSS, Node.js, MySQL.
 
 - Job listings, applications and user management across frontend and backend
 - File uploads and role-based access
-
-## Private / client work
-
-These projects are private, so there is no public repo or live demo — but they are real production work, not tutorials.
-
-### 🛍️ Mitjaar — Multi-vendor e-commerce
-Multi-vendor e-commerce platform (MERN: MongoDB, Express, React, Node.js).
-
-### 🤖 Rafiq AI — Corporate learning platform
-AI-powered corporate learning platform.
-
-### ✈️ Booking Tours Egypt — Tours booking platform
-Tour booking platform for Egypt (MERN: MongoDB, Express, React, Node.js).
 
 ---
 
